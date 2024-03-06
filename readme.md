@@ -6,7 +6,7 @@ https://logging.apache.org/log4net/release/faq.html#two-snks
 
 ## Details
 
-This works through adding the legacy 1.2.10 assembly as content, and using binding redirection handle anything looking for this version. Then you can use any 2.x.x version. 
+This works by adding the legacy 1.2.10 assembly as content, and using binding redirection handle anything looking for this version. Then you can use any 2.x.x version where you want without conflicts. 
 
 Bindings - note the unusual href:
 
