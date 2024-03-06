@@ -11,8 +11,8 @@ This works through adding the legacy 1.2.10 assembly as content, and using bindi
 Bindings - note the unusual href:
 
 ```
-      <dependentAssembly>
-				<assemblyIdentity name="log4net" publicKeyToken="1b44e1d426115821" />
-				<codeBase version="1.2.10.0" href="log4net.1.2.10.dll" />
-			</dependentAssembly>
+<dependentAssembly>
+	<assemblyIdentity name="log4net" publicKeyToken="1b44e1d426115821" />
+	<codeBase version="1.2.10.0" href="log4net.1.2.10.dll" />
+</dependentAssembly>
 ```
